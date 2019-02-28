@@ -1,0 +1,15 @@
+﻿  Clause.c
+  Cnf.c
+  SAT求解器.c
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\sat求解器.c(117): warning C4018: “<=”: 有符号/无符号不匹配
+  Solver.c
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\solver.c(9): warning C4013: “clock”未定义；假设外部返回 int
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\solver.c(426): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\solver.c(439): warning C4305: “*=”: 从“double”到“float”截断
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\solver.c(699): warning C4018: “<”: 有符号/无符号不匹配
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\solver.c(727): warning C4018: “<=”: 有符号/无符号不匹配
+d:\课程设计\数据结构\sat求解器2.20\sat求解器\solver.c(738): warning C4018: “<”: 有符号/无符号不匹配
+  Sudoku.c
+  Var_Order.c
+  正在生成代码...
+  SAT求解器.vcxproj -> D:\课程设计\数据结构\SAT求解器2.20\Debug\SAT求解器.exe
